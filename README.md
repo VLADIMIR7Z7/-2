@@ -222,7 +222,13 @@ f"{x:.5e}"
 
 ### Скриншоты работы приложения:
 
-[Здесь должны быть скриншоты вашего приложения]
+<img width="753" height="741" alt="image" src="https://github.com/user-attachments/assets/fd13ab04-0593-4799-a9f2-107dff50714d" />
+
+<img width="708" height="727" alt="image" src="https://github.com/user-attachments/assets/afbe73b5-c943-478b-9ea8-3fc92a8a721d" />
+
+<img width="645" height="696" alt="image" src="https://github.com/user-attachments/assets/854a33c0-8e33-45be-9656-3746cc1d4248" />
+
+<img width="648" height="719" alt="image" src="https://github.com/user-attachments/assets/590ac87a-b8b3-47ed-a25a-e55c9cc6c7af" />
 
 ## Выводы
 
