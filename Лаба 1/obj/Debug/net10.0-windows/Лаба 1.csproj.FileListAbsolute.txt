@@ -1,0 +1,130 @@
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\Лаба 1.csproj.AssemblyReference.cache
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\Лаба 1_MarkupCompile.cache
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\Лаба 1.g.resources
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\Лаба 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\Лаба 1.AssemblyInfoInputs.cache
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\Лаба 1.AssemblyInfo.cs
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\Лаба 1.csproj.CoreCompileInputs.cache
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\Лаба 1.exe
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\Лаба 1.deps.json
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\Лаба 1.runtimeconfig.json
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\Лаба 1.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\Лаба 1.pdb
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.BoxIcons2.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.CircumIcons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.FontAwesome5.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.FontAwesome6.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.GameIcons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.KeyruneIcons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Lucide.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.MemoryIcons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.MingCuteIcons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.MynaUIIcons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.PhosphorIcons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\Лаба 1.csproj.Up2Date
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\Лаба 1.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\refint\Лаба 1.dll
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\Лаба 1.pdb
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\Лаба 1.genruntimeconfig.cache
+C:\Users\petru\source\repos\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\ref\Лаба 1.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\Лаба 1.exe
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\Лаба 1.deps.json
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\Лаба 1.runtimeconfig.json
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\Лаба 1.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\Лаба 1.pdb
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.BoxIcons2.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.CircumIcons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.FontAwesome5.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.FontAwesome6.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.GameIcons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.KeyruneIcons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Lucide.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.MemoryIcons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.MingCuteIcons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.MynaUIIcons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.PhosphorIcons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\bin\Debug\net10.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\Лаба 1.csproj.AssemblyReference.cache
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\Лаба 1_MarkupCompile.cache
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\Лаба 1.g.resources
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\Лаба 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\Лаба 1.AssemblyInfoInputs.cache
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\Лаба 1.AssemblyInfo.cs
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\Лаба 1.csproj.CoreCompileInputs.cache
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\Лаба 1.csproj.Up2Date
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\Лаба 1.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\refint\Лаба 1.dll
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\Лаба 1.pdb
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\Лаба 1.genruntimeconfig.cache
+C:\Users\petru\OneDrive\Рабочий стол\Лаба 1\Лаба 1\obj\Debug\net10.0-windows\ref\Лаба 1.dll
